@@ -71,6 +71,5 @@ The following models were trained and compared:
 │── 📜 README.md # Project documentation
 
 ## 🛠️ Installation & Usage  
-### **🔹 Install Dependencies**  
-pip install pandas numpy scikit-learn matplotlib seaborn xgboost jupyter
-🔹 Run the Notebook: jupyter notebook Iris_classifier.ipynb
+### **🔹 Install Dependencies** : pip install pandas numpy scikit-learn matplotlib seaborn xgboost jupyter
+### **🔹 Run the Notebook**: jupyter notebook Iris_classifier.ipynb
